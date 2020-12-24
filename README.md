@@ -1,3 +1,3 @@
 # Three-Nearest-Neighbors
 
-This is a three nearest neighbors algorithm to classify between two different objects, written in MATLAB 
+This is a k-nearest neighbors classification algorithm that consists of the three nearest training examples to classify two different objects. Code is written in MATLAB
